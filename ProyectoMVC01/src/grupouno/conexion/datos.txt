@@ -1,0 +1,10 @@
+databaseclass=grupouno.conexion.Conexion_mySQL
+ssl=no
+jdbc=jdbc:mysql://
+driver=com.mysql.jdbc.Driver
+host=localhost
+database=almacen
+username=root
+password=
+options=charSet=LATIN1
+mostrarpropierties=si
